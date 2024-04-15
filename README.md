@@ -1,4 +1,4 @@
-#EMI Calculator Android Application
+**EMI Calculator Android Application**
 
 ![image](https://github.com/anvita-kumar30/EMIcalculatorAndroidApp/assets/109106936/a0385f72-6ea0-484c-a06d-5d54761980c9)
 
